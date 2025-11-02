@@ -1,0 +1,11 @@
+body { font-family: Inter, system-ui, sans-serif; margin: 0; padding: 20px; background:#f5f7fb; color:#111 }
+.container { max-width:1000px; margin:0 auto; }
+header h1 { margin:0; font-size:28px }
+.table-wrapper { background:white; padding:16px; border-radius:10px; box-shadow:0 6px 20px rgba(0,0,0,0.06); margin-top:16px }
+.controls { display:flex; justify-content:space-between; margin-bottom:12px }
+.controls input { padding:8px 10px; width:60%; border-radius:6px; border:1px solid #ddd }
+table { width:100%; border-collapse:collapse }
+th,td { padding:10px 8px; border-bottom:1px solid #eee; text-align:left }
+.pager { display:flex; justify-content:center; gap:12px; margin-top:12px }
+button { padding:6px 12px; border-radius:6px; border:1px solid #ccc; background:#fff; cursor:pointer }
+button:disabled { opacity:0.5; cursor:not-allowed }
