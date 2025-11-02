@@ -1,0 +1,6 @@
+[
+  { "id": 1, "symbol":"AAPL", "type":"BUY", "quantity": 10, "price": 173.45, "date":"2025-10-01T09:12:00Z" },
+  { "id": 2, "symbol":"GOOG", "type":"SELL", "quantity": 2, "price": 2840.00, "date":"2025-10-02T11:02:00Z" },
+  { "id": 3, "symbol":"TSLA", "type":"BUY", "quantity": 5, "price": 240.12, "date":"2025-10-03T13:22:00Z" }
+  // add more lines or generate realistic data
+]
